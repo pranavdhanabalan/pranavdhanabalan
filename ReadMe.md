@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </p>
-# 💫 About Me:
+💫 About Me:
 🚀 B.Tech CSE (AI & DS) Student  <br>🤖 Passionate about Artificial Intelligence & Machine Learning  <br>💡 Building real-world AI solutions  <br>📊 Strong in DSA & Problem Solving  <br>🛠 Currently working on AI-powered projects  <br><br>Always learning. Always building.
 
 
