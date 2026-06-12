@@ -312,25 +312,13 @@ Focused on building strong foundations in software engineering, AI systems, mach
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
 ---
 
 # Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdhanabalan&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -340,7 +328,7 @@ Focused on building strong foundations in software engineering, AI systems, mach
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://raw.githubusercontent.com/pranavdhanabalan/pranavdhanabalan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
