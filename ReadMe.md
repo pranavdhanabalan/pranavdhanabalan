@@ -121,42 +121,12 @@ Focused on building strong foundations in software engineering, AI systems, mach
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdhanabalan&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Calendar
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavdhanabalan&theme=tokyonight"/>
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-Projects-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
 *"Engineering intelligent systems that create measurable impact through software, data, and innovation."*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
