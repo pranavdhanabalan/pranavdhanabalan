@@ -298,22 +298,6 @@ Focused on building strong foundations in software engineering, AI systems, mach
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -324,11 +308,10 @@ Focused on building strong foundations in software engineering, AI systems, mach
 
 ---
 
-# Contribution Snake
-
+#Contribution calendar
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pranavdhanabalan/pranavdhanabalan/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavdhanabalan&theme=tokyonight"/>
 
 </div>
 
