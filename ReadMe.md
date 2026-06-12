@@ -121,8 +121,6 @@ Focused on building strong foundations in software engineering, AI systems, mach
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdhanabalan&theme=tokyo-night&hide_border=true"/>
 
 </div>
----
-
 <div align="center">
 
 *"Engineering intelligent systems that create measurable impact through software, data, and innovation."*
