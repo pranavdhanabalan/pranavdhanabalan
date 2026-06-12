@@ -1,5 +1,6 @@
 # README.md
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"> </p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav%20Dhanabalan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
@@ -308,12 +309,8 @@ Focused on building strong foundations in software engineering, AI systems, mach
 
 ---
 
-#Contribution calendar
-<div align="center">
-
+# Contribution Calendar
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavdhanabalan&theme=tokyonight"/>
-
-</div>
 
 ---
 
