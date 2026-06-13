@@ -49,7 +49,7 @@ I enjoy solving complex engineering challenges across software architecture, mac
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,bash)](https://skillicons.dev)
 
 </div>
 
@@ -57,7 +57,7 @@ I enjoy solving complex engineering challenges across software architecture, mac
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 </div>
 
@@ -65,7 +65,7 @@ I enjoy solving complex engineering challenges across software architecture, mac
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgresql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 </div>
 
@@ -73,7 +73,7 @@ I enjoy solving complex engineering challenges across software architecture, mac
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,linux,postman,vscode)](https://skillicons.dev)
 
 </div>
 
