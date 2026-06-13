@@ -1,5 +1,3 @@
-# README.md
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"> </p>
 <div align="center">
 
@@ -34,15 +32,6 @@
 <a href="https://github.com/your-github-username">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=4F46E5)
-
-![](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=A855F7)
-
 </div>
 
 ---
