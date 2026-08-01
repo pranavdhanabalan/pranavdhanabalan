@@ -38,7 +38,7 @@
 
 # About
 
-Software Engineering student specializing in **Artificial Intelligence & Data Science** with a strong focus on building production-grade software systems, intelligent applications, scalable backend services, and AI-powered products.
+Software Engineering student with a strong focus on building production-grade software systems, intelligent applications, scalable backend services, and AI-powered products.
 
 I enjoy solving complex engineering challenges across software architecture, machine learning, distributed systems, cloud-native development, and product engineering. My work combines modern software engineering practices with data-driven intelligence to create impactful solutions.
 
